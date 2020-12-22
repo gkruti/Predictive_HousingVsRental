@@ -13,6 +13,7 @@ body{
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
+    padding: 10px
 }
 
 #form{
@@ -26,12 +27,17 @@ body{
     padding-left: 25px;
 }
 #Monthly_Mortgage{
-    padding-left: 25px;
+    padding-left: 700px;
 }
-.grid-container{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 20px;
-    border: 5px solid green
+
+.container{
+    border: 5ps solid red;
+}
+.well{
+    padding: 15px;
+}
+#piechart{
+    text-align: center;
+    font-weight: bold;
 }
 
