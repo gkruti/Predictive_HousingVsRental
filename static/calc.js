@@ -174,11 +174,13 @@ function SummaryGraphText(SavingsAmount){
 }
 
 function UpdateZillowSalesURL(){
+    console.log('ipdating sales')
     window.open(`http://www.zillow.com/homes/${userInputHolder}_rb`, "_blank")
     
 }
 
 function UpdateZillowRentURL(){
+    console.log('updating rentals')
     window.open(`http://www.zillow.com/homes/for_rent/${userInputHolder}_rb`, "_blank");
     
 
