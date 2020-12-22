@@ -17,7 +17,7 @@ function MortgageCalculator(){
     let taxRate = $("#PropertyTax").val();
     let taxes = ((taxRate/100)*homePrice)/12;
     let MonthlyPayment = Math.round(mortgagePayment + insurance + taxes)
-    document.getElementById("Monthly_Mortgage").innerHTML=`The monthly mortgage payment is: ${MonthlyPayment}`;
+    document.getElementById("Monthly_Mortgage").innerHTML=`The monthly mortgage payment is: $${MonthlyPayment}`;
     console.log(MonthlyPayment)
     makeGraph();
     return MonthlyPayment;
@@ -51,10 +51,10 @@ function makeGraph(){
     let i = (interestRate/100)/12;
     let t = mortgagePeriod*12;
     let Value = homePrice - downPayment;
-    let mortgagePayment = (Value)*((i*((1+i)**t))/(((1+i)**t)-1));
-    let insurance = $("#HomeInsurance").val()/12
+    let mortgagePayment = Math.round((Value)*((i*((1+i)**t))/(((1+i)**t)-1)));
+    let insurance = Math.round($("#HomeInsurance").val()/12)
     let taxRate = $("#PropertyTax").val();
-    let taxes = ((taxRate/100)*homePrice)/12;
+    let taxes = Math.round(((taxRate/100)*homePrice)/12);
     console.log("hi")
     let graph_values = [mortgagePayment, insurance, taxes]
     let graph_labels = ["Mortgage", "Homeonwer's Insurance", "Property Taxes"]
@@ -62,7 +62,7 @@ function makeGraph(){
         values: graph_values,
         labels: graph_labels,
         name: "Monthly Payment Breakdown",
-        hoverinfo: 'label+percent+name',
+        hoverinfo: 'value+label',
         hole: .4,
         type: "pie"
     }
