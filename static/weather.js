@@ -198,7 +198,7 @@ function ReloadEsme(){
                     <div class="card card-block isDay" style="padding: 10px;">
                   <img src="https://media-exp1.licdn.com/dms/image/C5603AQEzdAVdSFaTxg/profile-displayphoto-shrink_200_200/0/1583344439841?e=1614211200&v=beta&t=PVUNT_RYF1npJS6nid6akVqgHo10y2gyk-kU6ym-ljE" class="img-rounded card-img" alt="Weather Image">
                   <br>
-                  <b> Michael  </b></div>
+                  <b> "Thank you for all your help throughout the class and in tutoring. I appreciate all you did for us." -Michael  </b></div>
                 </div>
                 <div class="col-3 ">
                     <div class="card card-block isDay" style="padding: 10px;">
@@ -210,19 +210,19 @@ function ReloadEsme(){
                     <div class="card card-block isDay" style="padding: 10px;">
                   <img src="https://media-exp1.licdn.com/dms/image/C5603AQGoffeXdkJpCw/profile-displayphoto-shrink_200_200/0/1593362621589?e=1614211200&v=beta&t=jQXS0eBuaHr2KGyqll-l2rMu7osHuqOHszbwSC3QOys" class="img-rounded card-img" alt="Weather Image">
                   <br>
-                  <b> "" Rachel   </b></div>
+                  <b> "Truly a fabulous learning experience. Thank you for your support and encouragement!"  -Rachel   </b></div>
                 </div>
                 <div class="col-3 ">
                     <div class="card card-block isDay" style="padding: 10px;">
                   <img src="https://media-exp1.licdn.com/dms/image/C5603AQEv2sxRNhFTkA/profile-displayphoto-shrink_200_200/0/1573107319746?e=1614211200&v=beta&t=1yoVS2ssZSUJXRpUz8zTY52p0Vf19nRjufIhWOViJkA" class="img-rounded card-img" alt="Weather Image">
                   <br>
-                  <b> Kruti    </b></div>
+                  <b> "Thank you for always being a helping hand in class and taking the time to make sure we are all on track." -Kruti    </b></div>
                 </div>
                 <div class="col-3 ">
                     <div class="card card-block isDay" style="padding: 10px;">
                   <img src="https://media-exp1.licdn.com/dms/image/C5635AQHLsVYr6yXsmA/profile-framedphoto-shrink_200_200/0/1607534565980?e=1608706800&v=beta&t=P-RZ3JGIPrOF9YUZWbX7XTuxnepbCkAKmyv1F_IPM-Y" class="img-rounded card-img" alt="Weather Image">
                   <br>
-                  <b> Taylor   </b></div>
+                  <b> "Man I can't think of anything. Maybe just put that" -Taylor   </b></div>
                 </div>
             </div>
             </div>
@@ -340,7 +340,7 @@ function ReloadMohan(){
                     <div class="card card-block isDay" style="padding: 10px;">
                   <img src="https://media-exp1.licdn.com/dms/image/C5603AQEzdAVdSFaTxg/profile-displayphoto-shrink_200_200/0/1583344439841?e=1614211200&v=beta&t=PVUNT_RYF1npJS6nid6akVqgHo10y2gyk-kU6ym-ljE" class="img-rounded card-img" alt="Weather Image">
                   <br>
-                  <b> Michael  </b></div>
+                  <b> "Thank you for showing me how fun coding can be and encouraging us to pursue our goals." -Michael  </b></div>
                 </div>
                 <div class="col-3 ">
                     <div class="card card-block isDay" style="padding: 10px;">
@@ -352,19 +352,19 @@ function ReloadMohan(){
                     <div class="card card-block isDay" style="padding: 10px;">
                   <img src="https://media-exp1.licdn.com/dms/image/C5603AQGoffeXdkJpCw/profile-displayphoto-shrink_200_200/0/1593362621589?e=1614211200&v=beta&t=jQXS0eBuaHr2KGyqll-l2rMu7osHuqOHszbwSC3QOys" class="img-rounded card-img" alt="Weather Image">
                   <br>
-                  <b> "Thank you for making my first coding experience interesting, fun, and relevant.  Kawhi Leonard for life!" Rachel   </b></div>
+                  <b> "Thank you for making my first coding experience interesting, fun, and relevant.  Kawhi Leonard for life!" -Rachel   </b></div>
                 </div>
                 <div class="col-3 ">
                     <div class="card card-block isDay" style="padding: 10px;">
                   <img src="https://media-exp1.licdn.com/dms/image/C5603AQEv2sxRNhFTkA/profile-displayphoto-shrink_200_200/0/1573107319746?e=1614211200&v=beta&t=1yoVS2ssZSUJXRpUz8zTY52p0Vf19nRjufIhWOViJkA" class="img-rounded card-img" alt="Weather Image">
                   <br>
-                  <b> Kruti    </b></div>
+                  <b> "Thank you for being so enthusiastic and more than willing to help us out then we need it."  -Kruti    </b></div>
                 </div>
                 <div class="col-3 ">
                     <div class="card card-block isDay" style="padding: 10px;">
                   <img src="https://media-exp1.licdn.com/dms/image/C5635AQHLsVYr6yXsmA/profile-framedphoto-shrink_200_200/0/1607534565980?e=1608706800&v=beta&t=P-RZ3JGIPrOF9YUZWbX7XTuxnepbCkAKmyv1F_IPM-Y" class="img-rounded card-img" alt="Weather Image">
                   <br>
-                  <b> Taylor   </b></div>
+                  <b> "Man I can't think of anything. Maybe just put that" -Taylor   </b></div>
                 </div>
             </div>
             </div>

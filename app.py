@@ -18,9 +18,6 @@ app = Flask(__name__)
 def index():
     return render_template("index.html")
 
-@app.route("/Mohan")
-def mohan():
-    return render_template("Mohan.html")
 
 @app.route("/calculation")
 def calc():
